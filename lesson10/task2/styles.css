@@ -24,14 +24,11 @@ footer {
     margin: auto;
 }
 
-.news{
+aside {
     width: 200px;
     background-color: gray;
-   
-    
-}
-h2{
-    text-align:center;
+    display: flex;
+    flex-direction: column;
 }
 
 .list {
@@ -43,9 +40,9 @@ h2{
     justify-self: center;
 }
 
-
-
-
+section {
+    background-color: pink;
+}
 
 .menu {
     margin: 0;
@@ -67,7 +64,6 @@ h2{
     display: flex;
     flex-grow: 1;
     justify-content: center;
-    background-color: pink;
     align-items: center;
 }
 
