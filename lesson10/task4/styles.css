@@ -1,10 +1,13 @@
 .container {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .block {
     height: 300px;
     flex-grow: 1;
+    flex-shrink: 0;
+    /* justify-content: space-around; */
 }
 
 .block_red {
