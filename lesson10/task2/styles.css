@@ -71,4 +71,5 @@ section {
 .list-item {
     margin-bottom: 16px;
     display: flex;
+    line-height: 40px;
 }
