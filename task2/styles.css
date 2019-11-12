@@ -5,20 +5,22 @@
 
 .red{
     background-color:red;
-    float:left;
+    float: right;
 
 }
 
 .green{
   background-color:green;
-  float:right;
+  float:left;
 }
 .footer{
-  float: left;
-  width: 50%;
-  background-color:aquamarine;
+    border:2px solid black;
+ 
+  height: 30px;
+ clear: both;
 }
 .container{
     float: left;
     width: 50%;
+    background-color:aquamarine;
 }
