@@ -24,7 +24,7 @@ footer {
     margin: auto;
 }
 
-aside {
+.news{
     width: 200px;
     background-color: gray;
     display: flex;
@@ -40,9 +40,9 @@ aside {
     justify-self: center;
 }
 
-section {
-    background-color: pink;
-}
+
+
+
 
 .menu {
     margin: 0;
@@ -52,7 +52,6 @@ section {
 
 .menu_item {
     margin-right: 16px;
-
 }
 
 .page {
@@ -65,11 +64,10 @@ section {
     display: flex;
     flex-grow: 1;
     justify-content: center;
+    background-color: pink;
     align-items: center;
 }
 
 .list-item {
     margin-bottom: 16px;
-    display: flex;
-    line-height: 40px;
 }
