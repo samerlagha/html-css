@@ -52,7 +52,7 @@ section {
 
 .menu_item {
     margin-right: 16px;
-    
+
 }
 
 .page {
@@ -70,4 +70,5 @@ section {
 
 .list-item {
     margin-bottom: 16px;
+    display: flex;
 }
