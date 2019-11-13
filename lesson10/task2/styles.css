@@ -36,8 +36,11 @@ aside {
 }
 
 .headline {
-    margin: 16px auto;
-    justify-self: center;
+    /* margin: 16px auto; */
+    /* justify-self: center; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 section {
