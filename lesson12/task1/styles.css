@@ -1,8 +1,7 @@
-html{
-    font-family: Roboto , sans-serif;
+section {
     margin: 32px;
+    font-family: 'Roboto', sans-serif;
     font-size: 18px;
-
 }
 
 h1 {
@@ -15,9 +14,8 @@ p {
     line-height: 28px;
 }
 
-.technology {
+.bold {
     font-weight: bold;
-
     letter-spacing: 3px;
     font-size: 24px;
     opacity: 0.8;
@@ -26,19 +24,8 @@ p {
 
 .translation {
     color: gray;
-    
-/* font-style: italic; */
 }
 
 a {
     text-decoration: none;
 }
-
-
-
-
-
-
-
-
-
