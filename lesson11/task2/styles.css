@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+.articles {
+    display: flex;
+}
+
+.visible-text {
+    height: 100px;
+    width: 150px;
+    background-color: beige;
+    margin: 16px;
+}
+
+div.cropped {
+    overflow: hidden;
+    height: 100px;
+    width: 150px;
+    background-color: beige;
+    margin: 16px;
+}
+
+.both-scrolls {
+    overflow: scroll;
+    height: 100px;
+    width: 150px;
+    background-color: beige;
+    margin: 16px;
+}
+
+.vertical-scroll {
+    overflow: auto;
+    height: 100px;
+    width: 150px;
+    background-color: beige;
+    margin: 16px;
+}
