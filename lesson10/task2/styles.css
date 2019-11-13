@@ -36,10 +36,8 @@ aside {
 }
 
 .headline {
-    margin: 16px auto; 
-    /* justify-self: center; */
-    text-align: center;
-   
+    margin: 16px auto;
+    justify-self: center;
 }
 
 section {
@@ -70,8 +68,4 @@ section {
 }
 
 .list-item {
-    /* margin-bottom: 16px; */
     line-height: 40px;
-
-
-}
