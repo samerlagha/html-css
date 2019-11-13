@@ -22,7 +22,8 @@ p {
 }
 
 .translation {
-    color: gray;
+    color: gray;  
+    font-style: italic;
 }
 
 a {
