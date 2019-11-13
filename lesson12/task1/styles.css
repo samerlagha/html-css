@@ -1,3 +1,7 @@
+html{
+    font-family: sans-serif;
+    font-size: 18px;
+}
 section {
     margin: 32px;
     font-family: 'Roboto', sans-serif;
@@ -6,15 +10,18 @@ section {
 
 h1 {
     word-spacing: 20px;
-    text-transform: uppercase;
-    text-align: center;
+     text-transform: uppercase;
+    text-align: center; 
+    letter-spacing: 5px;
+    
 }
 
 p {
     line-height: 28px;
 }
 
-.bold {
+.technologies {
+    font-weight: 900;
     letter-spacing: 3px;
     font-size: 24px;
     opacity: 0.8;
@@ -23,9 +30,22 @@ p {
 
 .translation {
     color: gray;  
-    font-style: italic;
+  
 }
 
 a {
     text-decoration: none;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
