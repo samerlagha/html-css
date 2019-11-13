@@ -36,16 +36,13 @@ aside {
 }
 
 .headline {
-    
-    margin: 16px;
-    /* justify-self: center; */
-    text-align: center;
-   
+    margin: 16px auto;
+    justify-self: center;
 }
 
-/* section {
+section {
     background-color: pink;
-} */
+}
 
 .menu {
     margin: 0;
@@ -68,12 +65,8 @@ aside {
     flex-grow: 1;
     justify-content: center;
     align-items: center;
-    background-color: pink;
 }
 
 .list-item {
     margin-bottom: 16px;
-    display:flex;
-    line-height: 20px;
-
 }
