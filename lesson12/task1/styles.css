@@ -10,18 +10,15 @@ section {
 
 h1 {
     word-spacing: 20px;
-     text-transform: uppercase;
-    text-align: center; 
-    letter-spacing: 5px;
-    
+    text-transform: uppercase;
+    text-align: center;
 }
 
 p {
     line-height: 28px;
 }
 
-.technologies {
-    font-weight: 900;
+.bold {
     letter-spacing: 3px;
     font-size: 24px;
     opacity: 0.8;
@@ -29,8 +26,7 @@ p {
 }
 
 .translation {
-    color: gray;  
-  
+    color: gray;
 }
 
 a {
