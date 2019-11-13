@@ -37,9 +37,10 @@ aside {
 
 .headline {
     
-    margin: 16px auto;
-    justify-self: center;
-    
+    margin: 16px;
+    /* justify-self: center; */
+    text-align: center;
+   
 }
 
 /* section {
@@ -73,6 +74,6 @@ aside {
 .list-item {
     margin-bottom: 16px;
     display:flex;
-    line-height: 30px;
+    line-height: 20px;
 
 }
