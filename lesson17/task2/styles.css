@@ -6,7 +6,7 @@ table{
     margin: 16px;
 }
 caption{
-    margin-bottom: 8px;
+    margin: 8px;
 }
 table, td, th{
     border: 1px solid black;
