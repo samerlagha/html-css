@@ -14,9 +14,8 @@ table, td, th{
 }
 td, th{
     text-align: right;
-    line-height: 31px;
-    vertical-align: center;
     padding: 4px;
+    line-height:40px;
 }
 th{
     background-color: aqua;
